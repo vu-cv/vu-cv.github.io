@@ -20,6 +20,10 @@ Dưới đây là sơ đồ minh họa Loopback làm cầu nối giữa các inc
 Cài đặt [NodeJs](https://nodejs.org/en/download/){:target="_blank"} (version 8.9 trở lên) nếu nó chưa được cài đặt trên máy của bạn
 
 ### 2.2 Cài đặt LoopBack 4 CLI
-```npm
+```javascript
 npm i -g @loopback/cli
+```
+### 2.3 Tạo mới project
+```javascript
+lb4 app
 ```
