@@ -54,3 +54,9 @@ npm start
 Trên trình duyệt, truy cập [http://127.0.0.1:3000/explorer](http://127.0.0.1:3000/explorer/){:target="_blank"}
 
 ![explorer.PNG](/assets/images/explorer.PNG "loopback explorer")
+
+#### Tạo HelloController
+```javascript
+lb4 controller
+```
+Đang cập nhật...
