@@ -46,3 +46,11 @@ all, <i> to invert selection)
  (*) Enable repositories: include repository imports and RepositoryMixin
 (Move up and down to reveal more choices)
 ```
+#### Chạy project:
+```javascript
+cd my-app
+npm start
+```
+Trên trình duyệt, truy cập [http://127.0.0.1:3000/explorer](http://127.0.0.1:3000/explorer/){:target="_blank"}
+explorer.PNG
+![explorer.PNG](/assets/images/explorer.PNG "loopback explorer")
