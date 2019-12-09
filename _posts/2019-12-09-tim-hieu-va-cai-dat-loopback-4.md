@@ -17,4 +17,9 @@ Dưới đây là sơ đồ minh họa Loopback làm cầu nối giữa các inc
 
 ## 2. Cài đặt
 ### 2.1 Điều kiện tiên quyết
-Cài đặt [NodeJs](https://loopback.io){:target="_blank"} (version 8.9 trở lên) nếu nó chưa được cài đặt trên máy của bạn
+Cài đặt [NodeJs](https://nodejs.org/en/download/){:target="_blank"} (version 8.9 trở lên) nếu nó chưa được cài đặt trên máy của bạn
+
+### 2.2 Cài đặt LoopBack 4 CLI
+```npm
+npm i -g @loopback/cli
+```
