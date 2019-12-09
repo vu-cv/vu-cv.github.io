@@ -16,3 +16,5 @@ Dưới đây là sơ đồ minh họa Loopback làm cầu nối giữa các inc
 Đây là một framework rất hay, các bạn có thể tham khảo chi tiết tại địa chỉ: [https://loopback.io](https://loopback.io)
 
 ## 2. Cài đặt
+### 2.1 Điều kiện tiên quyết
+Cài đặt [NodeJs](https://loopback.io) (version 8.9 trở lên) nếu nó chưa được cài đặt trên máy của bạn
