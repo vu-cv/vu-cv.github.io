@@ -20,10 +20,29 @@ Dưới đây là sơ đồ minh họa Loopback làm cầu nối giữa các inc
 Cài đặt [NodeJs](https://nodejs.org/en/download/){:target="_blank"} (version 8.9 trở lên) nếu nó chưa được cài đặt trên máy của bạn
 
 ### 2.2 Cài đặt LoopBack 4 CLI
+LoopBack 4 CLI là một command-line interface giúp tạo ra bộ khung của dự án một cách cơ bản và nhanh chóng.
+Bạn hãy cài đặt nó ở chế độ global bằng cách chạy câu lệnh dưới đây:
 ```javascript
 npm i -g @loopback/cli
 ```
 ### 2.3 Tạo mới project
+Sau khi cài đặt xong Loopback 4 CLI bạn hãy chạy câu lệnh sau và trả lời các câu hỏi gợi ý
 ```javascript
-lb4 app
+lb4 my-app
+```
+Trả lời các hướng dẫn như sau:
+```
+? Project description: my-app
+? Project root directory: my-app
+? Application class name: MyAppApplication
+? Select features to enable in the project (Press <space> to select, <a> to toggle
+all, <i> to invert selection)
+>(*) Enable eslint: add a linter with pre-configured lint rules
+ (*) Enable prettier: install prettier to format code conforming to rules
+ (*) Enable mocha: install mocha to run tests
+ (*) Enable loopbackBuild: use @loopback/build helpers (e.g. lb-eslint)
+ (*) Enable vscode: add VSCode config files
+ (*) Enable docker: include Dockerfile and .dockerignore
+ (*) Enable repositories: include repository imports and RepositoryMixin
+(Move up and down to reveal more choices)
 ```
