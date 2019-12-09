@@ -1,5 +1,5 @@
-# vucv138.github.io
-Author: Chu Văn Vụ
+# vu138.github.io
+Author: Chu Van Vu
 email: chuvanvu1324@gmail.com
 
 ## Step 1: Install ruby
@@ -23,7 +23,7 @@ ruby -v
 ```
 
 ## Step 2: Clone repo
-git clone https://github.com/vucv138/vucv138.github.io.git
+git clone https://github.com/vu138/vu138.github.io.git
 
 ## Step 3: Run jekyll
 ```

@@ -6,9 +6,9 @@ key: page-about
 ---
 
 ## 1. Giới thiệu
-tuanictu97.github.io là một web blog cá nhân. Website sử dụng Jekyll & TextTheme, hosting sử dụng là github page.
+vu138.github.io là một web blog cá nhân. Website sử dụng Jekyll & TextTheme, hosting sử dụng là github page.
 
-Là nơi chia sẽ kiến thức về lập trình web, mobile ... Được vận hành/phát triển nội dung bởi người sáng lập Hà Anh Tuấn
+Là nơi chia sẽ kiến thức về lập trình web, mobile ... Được vận hành/phát triển nội dung bởi người sáng lập Chu Văn Vụ
 
 ## 2. Mục tiêu hoạt động
 Mục tiêu chính của blog được thành lập ra là để chia sẻ những thông tin mà người sáng lập biết và muốn chia sẻ.
@@ -19,5 +19,5 @@ Mục tiêu chính của blog được thành lập ra là để chia sẻ nhữ
 
 ## 4. Liên hệ với tôi
 Bạn có thể liên hệ với tôi thông qua:
-- Facebook: https://facebook.com/tuanictu97
-- Email: tuanictu97@gmail.com
+- Facebook: https://facebook.com/chuvu138
+- Email: chuvanvu1324@gmail.com

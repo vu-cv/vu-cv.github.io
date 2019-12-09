@@ -2,9 +2,9 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : #
 baseurl : # 
-title   : Chu Vụ
+title   : iNgáo
 description: >
-   Chu Vụ Blog
+   iNgáo Blog
 
 
 lang: en
@@ -29,7 +29,7 @@ author:
   zhihu     : # https://www.zhihu.com/people/user_name
   douban    : # https://www.douban.com/people/user_name
   linkedin  : # https://www.linkedin.com/in/user_name
-  github    : vucv138
+  github    : vu138
   npm       : # https://www.npmjs.com/~user_name
 
 
