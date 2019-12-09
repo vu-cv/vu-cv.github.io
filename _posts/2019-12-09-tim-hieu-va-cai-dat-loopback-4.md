@@ -11,7 +11,7 @@ Loopback 4 này là một framework mã nguồn mở dựa trên NodeJs và Expr
 
 Dưới đây là sơ đồ minh họa Loopback làm cầu nối giữa các incoming requests và outgoing integrations
 
-![ảnh minh họa incoming requests và outgoing integrations](/assets/lb4-high-level.png "Logo Title Text 1")
+![ảnh minh họa incoming requests và outgoing integrations](/assets/images/lb4-high-level.png "Logo Title Text 1")
 
 Đây là một framework rất hay, các bạn có thể tham khảo chi tiết tại địa chỉ: [https://loopback.io](https://loopback.io)
 
