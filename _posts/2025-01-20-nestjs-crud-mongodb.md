@@ -7,7 +7,7 @@ Trong bài này, chúng ta sẽ xây dựng một API CRUD hoàn chỉnh với N
 
 ## 1. Chuẩn bị
 
-Bạn cần có project NestJS đã khởi tạo. Nếu chưa có, hãy xem bài [Tìm hiểu & Cài đặt NestJS](/2026/03/23/tim-hieu-va-cai-dat-nestjs.html).
+Bạn cần có project NestJS đã khởi tạo. Nếu chưa có, hãy xem bài [Tìm hiểu & Cài đặt NestJS](/2025/01/05/tim-hieu-va-cai-dat-nestjs.html).
 
 Cài đặt Mongoose cho NestJS:
 
